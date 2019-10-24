@@ -24,11 +24,12 @@
     </dependency>
     
     <!-- https://mvnrepository.com/artifact/org.swinglabs/swingx -->
-	<dependency>
-	    <groupId>org.swinglabs</groupId>
-	    <artifactId>swingx</artifactId>
-	    <version>1.6.1</version>
-	</dependency>
+<dependency>
+    <groupId>org.swinglabs</groupId>
+    <artifactId>swingx</artifactId>
+    <version>1.6.1</version>
+</dependency>
+
 	
 	<!-- https://mvnrepository.com/artifact/org.codehaus.mojo/cobertura-maven-plugin -->
 	<dependency>
